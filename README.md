@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Martin Justa
 
 I'm a passionate programmer with a growing interest in software development, systems programming, and clean, efficient code.  
 Currently a student at **42 Prague**, where I'm exploring low-level programming in **C** and deepening my understanding of computer science fundamentals.  
