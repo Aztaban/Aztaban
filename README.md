@@ -34,8 +34,10 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aztaban&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztaban&layout=compact&langs_count=8&theme=default)
+![GitHub Stats](https://github-readme-stats-private-ebon.vercel.app/api?username=aztaban&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-private-ebon.vercel.app/api/top-langs/?username=aztaban&layout=compact&count_private=true)
+
 
 ---
 
