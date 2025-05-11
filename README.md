@@ -42,13 +42,10 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 ## 🧩 Notable Projects
 
 - **E-commerce Backend** – Express + TypeScript API with authentication and order handling  
-   _[https://github.com/Aztaban/mist-server]_
+   _https://github.com/Aztaban/mist-server_
 
 - **React Storefront** – A modern frontend using React, TypeScript and Redux  
-  _[Link to repository]_
-
-- **42 Piscine Work** – Shell scripts, C projects, and algorithm exercises from 42 Prague  
-  _[Link to repository or folder, if public]_
+  _https://github.com/Aztaban/mist-gate_
 
 ---
 
