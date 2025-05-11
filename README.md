@@ -34,15 +34,15 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aztaban&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztaban&layout=compact&langs_count=8&theme=default)
 
 ---
 
 ## 🧩 Notable Projects
 
 - **E-commerce Backend** – Express + TypeScript API with authentication and order handling  
-  _[Link to repository]_
+   _[https://github.com/Aztaban/mist-server]_
 
 - **React Storefront** – A modern frontend using React, TypeScript and Redux  
   _[Link to repository]_
@@ -54,9 +54,8 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 
 ## 🔗 Connect
 
-- 42 Profile: [Add your intranet profile link if you want]
-- Email: [you@example.com] (optional)
-- LinkedIn: [linkedin.com/in/yourprofile] (optional)
+- Email: [Aztabanee@gmail.com]
+- LinkedIn: [www.linkedin.com/in/martin-justa-b9962b127] 
 
 ---
 
