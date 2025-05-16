@@ -43,6 +43,9 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 
 ## 🧩 Notable Projects
 
+- **Snake Game** – Classic game built with Javascript.  
+   _https://snake-ten-brown.vercel.app/_
+
 - **E-commerce Backend** – Express + TypeScript API with authentication and order handling  
    _https://github.com/Aztaban/mist-server_
 
