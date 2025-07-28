@@ -1,18 +1,24 @@
 # 👋 Hello, I'm Martin Justa
 
-I'm a passionate programmer with a growing interest in software development, systems programming, and clean, efficient code.  
-Currently a student at **42 Prague**, where I'm exploring low-level programming in **C** and deepening my understanding of computer science fundamentals.  
-Previously, I've worked on several **TypeScript** projects, including full-stack applications using modern JavaScript frameworks.
+I'm a curious and driven programmer who enjoys solving problems, learning new technologies, and writing clean, reusable, and well-structured code. I care about clarity — in both code and project organization — and always aim to keep my files, folders, and logic tidy and easy to follow.
+
+I take pride in breaking down complex problems into smaller, manageable pieces — and either solving them directly or cutting deeper until I find a clean solution.
+
+Currently, I'm a student at 42 Prague, where I've completed the 42 Piscine and have since worked on various low-level and systems programming projects in C — including custom implementations of standard library functions, Unix process handling, and basic 2D graphics using a minimalist graphical library. These projects have helped me build a strong foundation in computer science and practical software engineering.
+
+I’m not focused on a single specialization — I’m confident in my ability to adapt and tackle any technical challenge that comes my way.
+
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Currently studying at **42 Prague**, having successfully completed the 42 Piscine
-- 🧠 Interested in systems programming, backend development, and problem solving
-- 💻 Familiar with both high-level (TypeScript, JavaScript) and low-level (C) languages
-- 📚 Always learning – from Linux shell scripting to writing efficient algorithms in C
-- 🛠️ I enjoy building tools, experimenting with technologies, and learning how things work under the hood
+- 🎓 Student at **42 Prague**, with hands-on experience in C, system-level projects, and debugging
+- 🧩 Passionate about solving problems by breaking them into small, manageable parts
+- 🧼 Focused on writing clean, reusable, and well-structured code
+- 🗂️ Care deeply about organized project structure — clear file/folder layout matters
+- 🛠️ Comfortable with both low-level (C, shell) and high-level (TypeScript, JavaScript) programming
+- 🚀 I don’t wait for the perfect conditions — I build, test, refactor, and iterate
 
 ---
 
@@ -43,15 +49,19 @@ Previously, I've worked on several **TypeScript** projects, including full-stack
 
 ## 🧩 Notable Projects
 
-- **Snake Game** – Classic game built with Javascript.  
-   _https://snake-ten-brown.vercel.app/_
+### 🎮 Snake Game (JS)
+Classic Snake game built with vanilla JavaScript and canvas  
+[snake-ten-brown.vercel.app](https://snake-ten-brown.vercel.app)
 
-- **E-commerce Backend** – Express + TypeScript API with authentication and order handling  
-   _https://github.com/Aztaban/mist-server_
+### 🛠️ 42 Projects
+Systems-level C programming: custom `printf`, file readers, process pipelines, 2D game engine  
+[github.com/Aztaban/42projects](https://github.com/Aztaban/42projects)
 
-- **React Storefront** – A modern frontend using React, TypeScript and Redux  
-  _https://github.com/Aztaban/mist-gate_
-
+### 🔷 E-commerce Stack (`mist`)
+- **mist-server** – TypeScript + Express backend with authentication, orders, and admin tools  
+  [github.com/Aztaban/mist-server](https://github.com/Aztaban/mist-server)
+- **mist-gate** – React + Redux storefront with TypeScript, routing, and cart management  
+  [github.com/Aztaban/mist-gate](https://github.com/Aztaban/mist-gate)
 ---
 
 ## 🔗 Connect
