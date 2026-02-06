@@ -13,7 +13,7 @@ I’m not focused on a single specialization — I’m confident in my ability t
 
 ## 💡 About Me
 
-- 🎓 Student at **42 Prague**, with hands-on experience in C, system-level projects, and debugging
+- 🎓 Student at **42 Prague**, with hands-on experience in C/C++, system-level projects, and debugging
 - 🧩 Passionate about solving problems by breaking them into small, manageable parts
 - 🧼 Focused on writing clean, reusable, and well-structured code
 - 🗂️ Care deeply about organized project structure — clear file/folder layout matters
