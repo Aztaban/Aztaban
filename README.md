@@ -25,6 +25,7 @@ I’m not focused on a single specialization — I’m confident in my ability t
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Makefile](https://img.shields.io/badge/Makefile-DC143C?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-652B75?style=flat)
