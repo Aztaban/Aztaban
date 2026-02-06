@@ -40,8 +40,6 @@ I’m not focused on a single specialization — I’m confident in my ability t
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Norminette](https://img.shields.io/badge/Norminette-000000?style=flat&logo=42&logoColor=white)
 
 ---
 
