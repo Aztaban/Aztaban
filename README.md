@@ -1,24 +1,28 @@
 # 👋 Hello, I'm Martin Justa
 
-I'm a curious and driven programmer who enjoys solving problems, learning new technologies, and writing clean, reusable, and well-structured code. I care about clarity — in both code and project organization — and always aim to keep my files, folders, and logic tidy and easy to follow.
+I'm a software developer currently working as a **frontend developer with React and TypeScript**.
 
-I take pride in breaking down complex problems into smaller, manageable pieces — and either solving them directly or cutting deeper until I find a clean solution.
+I enjoy solving problems, learning new technologies, and building clean, reusable, and well-structured code. While my current professional focus is frontend development, I’m interested in software engineering more broadly — from web applications and backend systems to low-level programming, tooling, and system design.
 
-Currently, I'm a student at 42 Prague, where I've completed the 42 Piscine and have since worked on various low-level and systems programming projects in C — including custom implementations of standard library functions, Unix process handling, and basic 2D graphics using a minimalist graphical library. These projects have helped me build a strong foundation in computer science and practical software engineering.
+I care about clarity in both code and project organization. I like breaking complex problems into smaller, manageable pieces, then building, testing, refactoring, and improving the solution until it feels clean and maintainable.
 
-I’m not focused on a single specialization — I’m confident in my ability to adapt and tackle any technical challenge that comes my way.
+Alongside frontend development, I have a strong low-level programming background from **42 Prague**, where I’ve worked on projects in C and C++ involving custom standard-library functions, Unix process handling, shell behavior, memory management, and basic 2D graphics.
+
+I’m not locked into one specialization — I’m confident in my ability to adapt, learn deeply, and tackle different technical challenges.
 
 
 ---
 
 ## 💡 About Me
 
+- 💼 Currently working as a **frontend developer with React, TypeScript, and JavaScript**
+- 🌱 Interested in software engineering beyond one specialization — frontend, backend, systems, tooling, and architecture
 - 🎓 Student at **42 Prague**, with hands-on experience in C/C++, system-level projects, and debugging
 - 🧩 Passionate about solving problems by breaking them into small, manageable parts
 - 🧼 Focused on writing clean, reusable, and well-structured code
 - 🗂️ Care deeply about organized project structure — clear file/folder layout matters
-- 🛠️ Comfortable with both low-level (C, shell) and high-level (TypeScript, JavaScript) programming
-- 🚀 I don’t wait for the perfect conditions — I build, test, refactor, and iterate
+- 🛠️ Comfortable with both high-level web development and low-level/system programming
+- 🚀 I build, test, refactor, and iterate instead of waiting for perfect conditions
 
 ---
 
