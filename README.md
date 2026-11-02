@@ -1,51 +1,86 @@
 # 👋 Hello, I'm Martin Justa
 
-I'm a software developer currently working as a **frontend developer with React and TypeScript**.
+I'm a software developer working with **React and TypeScript**, with a strong foundation in **C, C++, and systems programming** from [42 Prague](https://www.42prague.com/).
 
-I enjoy solving problems, learning new technologies, and building clean, reusable, and well-structured code. While my current professional focus is frontend development, I’m interested in software engineering more broadly — from web applications and backend systems to low-level programming, tooling, and system design.
+I enjoy building things, understanding how they work under the hood, and turning complex problems into clean, maintainable solutions. My interests include frontend and backend development, low-level programming, software architecture, and game development.
 
-I care about clarity in both code and project organization. I like breaking complex problems into smaller, manageable pieces, then building, testing, refactoring, and improving the solution until it feels clean and maintainable.
-
-Alongside frontend development, I have a strong low-level programming background from **42 Prague**, where I’ve worked on projects in C and C++ involving custom standard-library functions, Unix process handling, shell behavior, memory management, and basic 2D graphics.
-
-I’m not locked into one specialization — I’m confident in my ability to adapt, learn deeply, and tackle different technical challenges.
+I also enjoy sharing knowledge, collaborating with others, and contributing to the developer community.
 
 
 ---
 
-## 💡 About Me
+## 🚀 What I'm Up To
 
-- 💼 Currently working as a **frontend developer with React, TypeScript, and JavaScript**
-- 🌱 Interested in software engineering beyond one specialization — frontend, backend, systems, tooling, and architecture
-- 🎓 Student at **42 Prague**, with hands-on experience in C/C++, system-level projects, and debugging
-- 🧩 Passionate about solving problems by breaking them into small, manageable parts
-- 🧼 Focused on writing clean, reusable, and well-structured code
-- 🗂️ Care deeply about organized project structure — clear file/folder layout matters
-- 🛠️ Comfortable with both high-level web development and low-level/system programming
-- 🚀 I build, test, refactor, and iterate instead of waiting for perfect conditions
+- 💼 Working as a **Frontend Developer**, primarily with React and TypeScript.
+- 🎓 Studying at **42 Prague** through hands-on software engineering projects.
+- 🤝 Involved with **Hitchhikers** (formerly Tutors) and the **Student Council** at 42 Prague.
+- 🎮 Developing a **Python adventure game** — currently a work in progress.
+- 🕹️ Interested in **game development**, with plans to explore Unity and C# after Transcendence.
+- 🏓 Working on **ft_transcendence** with a team.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Makefile](https://img.shields.io/badge/Makefile-DC143C?style=flat)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-652B75?style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frameworks & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Game Development**
+
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-555555?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+
+## 🧩 Featured Projects
+
+### 🛍️ MIST — E-commerce Application
+
+A full-stack e-commerce project built with TypeScript.
+
+- **[mist-gate](https://github.com/Aztaban/mist-gate)** — React and Redux storefront.
+- **[mist-server](https://github.com/Aztaban/mist-server)** — Express REST API and backend services.
+
+### 🛠️ [42 Projects](https://github.com/Aztaban/42projects)
+
+A collection of 42 curriculum projects organized using Git submodules. The work spans memory management, algorithms, Unix processes, multithreading, shell development, C++, and basic computer graphics.
+
+### 🐍 [Snake](https://github.com/Aztaban/Snake)
+
+A classic Snake game made with JavaScript and HTML5 Canvas.
+
+**[Play the game](https://snake-ten-brown.vercel.app)**
+
+### 🕹️ Python Adventure Game — Work in Progress
+
+A personal game-development project exploring gameplay systems, game mechanics, and interactive storytelling with Python. More to share as it develops!
 
 ## 📊 GitHub Stats
 
@@ -53,47 +88,14 @@ I’m not locked into one specialization — I’m confident in my ability to ad
 
 ![Top Languages](https://github-readme-stats-private-ebon.vercel.app/api/top-langs/?username=aztaban&layout=compact&count_private=true)
 
-
----
-
-## 🧩 Notable Projects
-
-### 🎮 Snake Game (JS)
-Classic Snake game built with vanilla JavaScript and canvas  
-[snake-ten-brown.vercel.app](https://snake-ten-brown.vercel.app)
-
-### 🛠️ 42 Projects
-Systems-level C programming: custom `printf`, file readers, process pipelines, 2D game engine  
-[github.com/Aztaban/42projects](https://github.com/Aztaban/42projects)
-
-### 🔷 E-commerce Stack (`mist`)
-- **mist-server** – TypeScript + Express backend with authentication, orders, and admin tools  
-  [github.com/Aztaban/mist-server](https://github.com/Aztaban/mist-server)
-- **mist-gate** – React + Redux storefront with TypeScript, routing, and cart management  
-  [github.com/Aztaban/mist-gate](https://github.com/Aztaban/mist-gate)
 ---
 
 ## 🔗 Connect
 
-- Email: [Aztabanee@gmail.com]
-- LinkedIn: [www.linkedin.com/in/martin-justa-b9962b127] 
+- [LinkedIn](https://www.linkedin.com/in/martin-justa-b9962b127)
+- [Email](mailto:Aztabanee@gmail.com)
 
 ---
 
-_Thanks for visiting!_ 😊
+*Always learning, building, and looking for the next interesting challenge.*
 
-
-<!--
-**Aztaban/Aztaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
